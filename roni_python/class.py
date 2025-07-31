@@ -1,0 +1,8 @@
+print(format(0b110,'d'))
+print(format(0xa,'d'))
+print(pow(2,-3))
+print(pow(2,3.0))
+print(pow(2,0))
+print(pow((1+2),2))
+print(pow(-3,2))
+print(pow(2*2,2))
