@@ -13,3 +13,6 @@ elif(y>=z):
     print(y)
 else:
     print(z)
+#This is an important 3marks question
+    for i in range(101,1000,2):
+    print(i,end='\t')
