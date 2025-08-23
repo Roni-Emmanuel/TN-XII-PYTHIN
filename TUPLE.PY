@@ -1,0 +1,6 @@
+Tup1=(12,78,91,"Tamil","Telugu",3.14,69.49)
+print(Tup1)
+print(Tup1[2:5])
+print(Tup1[:5])
+print(Tup1[4:])
+print(Tup1[:])
