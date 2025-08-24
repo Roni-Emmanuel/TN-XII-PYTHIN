@@ -1,6 +1,12 @@
-str1=input("Enter a string")
-index=len(str1) 
-for i in str1:
-    print(str1[:index])
-    index-=1
-#important 3mark concept
+a=input("String")
+c=0
+w=1
+for i in a:
+    if i!='':
+        c+=1
+    else:
+        w+=1
+    x=a.count('\n')+1
+print(c-x+1) 
+print(w+x-1)
+print(x)
